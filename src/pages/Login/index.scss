@@ -1,0 +1,19 @@
+
+.login {
+    position: relative;
+    height: 100%;
+    background-image: url(../../assets/login.png);
+}
+.card-wrapper {
+    box-shadow: 0 0 2px rgba(0,0,0,0.5);
+    position: absolute;
+    left: 50%;
+    top:50%;
+    margin-left:-200px;
+    margin-top:-200px;
+    width: 400px;
+}
+.logo {
+   width: 400px;
+   height: 100px;
+}
